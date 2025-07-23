@@ -1,0 +1,3 @@
+[submodule "airbyte-integrations/connectors/source-odoo"]
+	path = airbyte-integrations/connectors/source-odoo
+	url = https://github.com/gauchocode/source-odoo
